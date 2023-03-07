@@ -4,5 +4,5 @@ cd data
 call prettify
 cd ..
 git add *
-git commit -m update
+git commit -m publish
 git push
