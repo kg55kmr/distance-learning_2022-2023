@@ -3,6 +3,8 @@
 cd data
 call prettify
 cd ..
-git add *
-git commit -m publish
-git push
+
+rem git add *
+rem git commit -m publish
+rem git push
+echo %ERRORLEVEL%
